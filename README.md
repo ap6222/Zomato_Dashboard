@@ -1,5 +1,7 @@
 # Zomato_Dashboard
 ![{1E512861-CFB3-4D2D-AC8D-331428F4A060}](https://github.com/user-attachments/assets/ee711454-3cc6-44b1-98a2-0c00f24bd07b)
+
+
 2
 ![{EEAD0140-55B4-44B8-B1B2-F4451C691312}](https://github.com/user-attachments/assets/0da2f653-0cb0-4046-9f33-4d4a7bbecbf2)
 The left pane lists 15 countries, each with their flag, representing the countries analyzed in the data.
@@ -8,6 +10,7 @@ A 3D globe visualization in the center marks countries in red, indicating their 
 The bar chart on the right shows the average cost for two people (in local currencies) across countries. Sri Lanka has the highest average cost (2.4K), followed by the Philippines and India.
 The bottom-right bar chart displays the Count of Restaurants by Country. India dominates with 8.7K restaurants, far exceeding other countries like the United States and the United Kingdom.
 Interactive filters, such as slicers and navigation arrows, are provided to explore the data further.
+
 3
 ![{D742430E-05CE-4644-B097-CC10660A3C6A}](https://github.com/user-attachments/assets/9342c555-b971-4068-83ab-88916ac54482)
 Two doughnut charts on the left display:
@@ -23,6 +26,8 @@ Total currencies in use: 12
 The bottom-left bar chart compares restaurant availability on weekdays and weekends. It shows consistent restaurant counts (~1.4K) across different days.
 
 The bottom-right line chart depicts the relationship between average ratings and the average cost for two. Higher-rated restaurants (rating 5) have significantly higher costs (11.6K), indicating a correlation between rating and pricing.
+
+
 4
 ![{007C7924-D0E8-4B94-8110-78BBF2381A2B}](https://github.com/user-attachments/assets/f91815e5-4104-4e7f-a0d5-6a258b0c9a13)
 This page is the Analysis by Rating and Votes Dashboard, providing insights into customer ratings and voting trends for Zomato restaurants.
