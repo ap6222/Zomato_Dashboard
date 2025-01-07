@@ -58,3 +58,18 @@ Average of Rating by Year (Line Chart):
 Ratings peaked in 2014 (2.95) and saw minor fluctuations, ending at 2.93 in 2018.
 Average of Votes by Year (Line Chart):
 Votes peaked in 2012 (176.06), followed by a gradual decline and stabilization.
+
+
+# Excel Report
+
+![{D4E2582E-9024-4460-83DC-E5C83577B966}](https://github.com/user-attachments/assets/501ba426-b7b8-426e-bc3a-a3814f72ad69)
+![{D88C42EE-7D66-47E3-A402-12F471EA2FBB}](https://github.com/user-attachments/assets/2ca3c840-32c8-492c-84bb-48bf13f91b25)
+![{AB38D259-667E-4707-B67C-8754A3A7294B}](https://github.com/user-attachments/assets/9fe334f1-be4e-4294-971c-e67d3e17c046)
+![{3A493F05-3B5A-4833-8B62-44F4195D5E20}](https://github.com/user-attachments/assets/f53d3a39-4045-4300-9aff-37a0d61b9911)
+![{9DEF858F-C8AB-40B0-9445-8BFB7926E218}](https://github.com/user-attachments/assets/b2500115-8a95-495a-b4cf-cf190d2ae76c)
+![{030824D1-43A3-47F8-992F-E8DB51433C81}](https://github.com/user-attachments/assets/dd5ff5bc-d96d-49f2-b46b-ed0b8a41d268)
+![{060E49DC-DFD1-43AF-9AB6-1749D9548E06}](https://github.com/user-attachments/assets/fbf19740-424c-4c8c-8447-c60ba0a49b33)
+![{CA70E6AD-46B5-4F39-BB74-57642EAF018F}](https://github.com/user-attachments/assets/5a868a97-516d-405a-ad64-ef0809f2adfb)
+![WhatsApp Image 2025-01-06 at 21 09 38_81e21109](https://github.com/user-attachments/assets/86e6d91e-858d-45b9-b61f-1f394cd84b83)
+
+
