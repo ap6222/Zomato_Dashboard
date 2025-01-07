@@ -74,4 +74,8 @@ Votes peaked in 2012 (176.06), followed by a gradual decline and stabilization.
 ![{CA70E6AD-46B5-4F39-BB74-57642EAF018F}](https://github.com/user-attachments/assets/5a868a97-516d-405a-ad64-ef0809f2adfb)
 ![WhatsApp Image 2025-01-06 at 21 09 38_81e21109](https://github.com/user-attachments/assets/86e6d91e-858d-45b9-b61f-1f394cd84b83)
 
+# Tableau 
+
+![Tableau dasboard](https://github.com/user-attachments/assets/4d20d23b-b09b-4f48-a29b-2ff7ce21e422)
+![{6E2CBEE3-CDCE-4270-955D-B5A6CD9D2E57}](https://github.com/user-attachments/assets/d8851e22-f942-4e81-8bc5-f7a9315ac6b6)
 
