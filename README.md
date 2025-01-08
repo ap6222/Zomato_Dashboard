@@ -74,8 +74,52 @@ Votes peaked in 2012 (176.06), followed by a gradual decline and stabilization.
 ![{CA70E6AD-46B5-4F39-BB74-57642EAF018F}](https://github.com/user-attachments/assets/5a868a97-516d-405a-ad64-ef0809f2adfb)
 ![WhatsApp Image 2025-01-06 at 21 09 38_81e21109](https://github.com/user-attachments/assets/86e6d91e-858d-45b9-b61f-1f394cd84b83)
 
+
 # Tableau 
 
 ![Tableau dasboard](https://github.com/user-attachments/assets/4d20d23b-b09b-4f48-a29b-2ff7ce21e422)
 ![{6E2CBEE3-CDCE-4270-955D-B5A6CD9D2E57}](https://github.com/user-attachments/assets/d8851e22-f942-4e81-8bc5-f7a9315ac6b6)
+
+# Sql 
+## Questions
+1. Build a country Map Table
+2. Build a Calendar Table using the Column Datekey
+  Add all the below Columns in the Calendar Table using the Formulas.
+   A.Year
+   B.Monthno
+   C.Monthfullname
+   D.Quarter(Q1,Q2,Q3,Q4)
+   E. YearMonth ( YYYY-MMM)
+   F. Weekdayno
+   G.Weekdayname
+   H.FinancialMOnth ( April = FM1, May= FM2  …. March = FM12)
+   I. Financial Quarter ( Quarters based on Financial Month)
+3.Find the Numbers of Resturants based on City and Country.
+4.Numbers of Resturants opening based on Year , Quarter , Month
+5. Count of Resturants based on Average Ratings
+6. Create buckets based on Average Price of reasonable size and find out how many resturants falls in each buckets
+7.Percentage of Resturants based on "Has_Table_booking"
+8.Percentage of Resturants based on "Has_Online_delivery"
+9. Develop Charts based on Cusines, City, Ratings
+
+
+![IMG-20250108-WA0007](https://github.com/user-attachments/assets/e657b236-6ec3-44ea-a553-5261cdf96a16)
+
+![IMG-20250108-WA0008](https://github.com/user-attachments/assets/39bcd9c1-afe5-4bd9-a78e-342ac50bba59)
+
+![IMG-20250108-WA0009](https://github.com/user-attachments/assets/53c2431e-f6d5-4896-8e5c-5d80d3497985)
+
+![IMG-20250108-WA0010](https://github.com/user-attachments/assets/2fd52dd7-8e6a-461a-ac27-da657ab48e5e)
+
+![IMG-20250108-WA0011](https://github.com/user-attachments/assets/51a46034-4015-40a2-880a-55a804ef5ebc)
+
+![IMG-20250108-WA0012](https://github.com/user-attachments/assets/5c2c7631-a390-4ccc-8338-611ace6dc560)
+
+![IMG-20250108-WA0013](https://github.com/user-attachments/assets/c18185ab-af11-405a-bcb1-d5aee501d824)
+
+![IMG-20250108-WA0014](https://github.com/user-attachments/assets/051c17da-193b-4830-842f-99d092ec5c45)
+
+![IMG-20250108-WA0015](https://github.com/user-attachments/assets/297afe95-c2ad-4c60-b732-5a621eda036a)
+
+![IMG-20250108-WA0016](https://github.com/user-attachments/assets/cdf61e13-bcf0-4aa1-9338-7ec49c928808)
 
